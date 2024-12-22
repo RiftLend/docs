@@ -9,4 +9,6 @@
   * [Borrow](features/borrow/README.md)
     * [Repay](features/borrow/repay.md)
   * [Withdraw](features/withdraw.md)
-  * [Multichain Flashloans](features/multichain-flashloans.md)
+  * [Multichain Flashloans](features/multichain-flashloans/README.md)
+    * [How to Use Flash Loans](features/multichain-flashloans/how-to-use-flash-loans.md)
+    * [Future Improvements](features/multichain-flashloans/future-improvements.md)
