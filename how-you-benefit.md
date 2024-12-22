@@ -4,15 +4,13 @@ description: RiftLend - your stress-free lending and borrowing experience
 
 # How you benefit
 
-With RiftLend, we're aiming to simplify the lending exerience in a multichain world, thanks to Interops on the Optimism Superchain.
+With RiftLend, we aim to simplify the lending experience in a multichain world, thanks to Interops on the Optimism Superchain.&#x20;
 
-We believe that interoperability is the end game of cross-chain communication.&#x20;
+We believe interoperability is the future of cross-chain communication. It enables seamless processes without any cross-chain contract calls by using events verified in the CrossL2Inbox, ensuring necessary security guarantees.
 
-It enables this process without any cross-chain contract calls, using events that can be verified in the CrossL2Inbox, ensuring the necessary security guarantees.
+Natively integrated into the op-stack, it eliminates existing middlemen bridges for cross-chain applications. This empowers app developers to create complex interaction designs like RiftLend.
 
-As it is natively built into the op-stack, it eliminates current middlemen bridges for cross-chain applications empowering app developers to create complex interaction designs like RiftLend.
-
-With Interop, RiftLend synchronizes reserve states across chains, offering a consistent interest rate for lenders and borrowers, regardless of the underlying chain.
+With Interop, RiftLend synchronizes reserve states across chains, offering consistent interest rates for lenders and borrowers, regardless of the underlying chain.
 
 ## How are we different?
 
@@ -20,39 +18,39 @@ With Interop, RiftLend synchronizes reserve states across chains, offering a con
 
 #### 1. Rate Stability Across All Markets
 
-* Avoids significant interest rate spikes. [ https://x.com/CupOJoseph/status/1862722357795672414](https://x.com/CupOJoseph/status/1862722357795672414)
-* Benefit from better lending rates and decreased borrowing rates.
-* Peace of mind for borrowers often liquidated due to these interest rate spikes
+* Avoid significant interest rate spikes. [Learn More](https://x.com/CupOJoseph/status/1862722357795672414)
+* Benefit from better lending rates and reduced borrowing costs.
+* Enjoy peace of mind for borrowers often liquidated due to interest rate spikes.
 
-#### 2. Liquidity Fragmentation Solved
+#### 2. Solving Liquidity Fragmentation
 
 * Unified reserves state
-* Better lending and borrowing rates
+* Enhanced lending and borrowing rates
 * Improved liquidity retention across chains
 
 #### 3. Seamless User Experience:
 
 Users no longer need to worry about chain-specific limitations. Deposit on one chain, borrow on another, and repay from another. Where you are is no longer important, because RiftLend handles the complexities
 
-* Empowering users to use any chain they like.
+* Empowering users to use any chain they prefer.
 * Eliminating risky bridging operations.
 * Minimized transactional error.
 
 #### 4. Interoperability benefits (User empowerment):
 
-* Lend on any Superchain where your assets are located (no bridging required).
-* Borrow on any chain, regardless of where you lent from.
-* Repay on any chain where you have funds.
-* Withdraw to any chain, from any chain.
+* Lend on any Superchain where your assets are; no bridging needed.
+* Borrow on any chain, regardless of where you lent.&#x20;
+* Repay on any chain where you hold funds.&#x20;
+* Withdraw to or from any chain.
 
 ### **For Developers:**
 
 #### 1. [Multichain Flash Loans](https://github.com/RiftLend/monorepo-v1/blob/tabish/tests/packages/contracts/docs/MultichainFlashloans.md)
 
-RiftLend enables users to access liquidity across multiple chains - initiating, borrowing, and repaying in a single interaction. A parallel multi-chain interaction.
+RiftLend allows users to access liquidity across multiple chains, enabling them to initiate, borrow, and repay in a single interaction—a parallel multi-chain experience.
 
 #### 2. A new [interop-std](https://github.com/RiftLend/interop-std/blob/main/README.md) library empowers developers to:
 
 * Manage cross-chain deployments
 * Handle governance seamlessly
-* Build advanced cross chain tools like liquidation and flash loan bots with ease.
+* Build advanced cross-chain tools like liquidation and flash loan bots with ease.
