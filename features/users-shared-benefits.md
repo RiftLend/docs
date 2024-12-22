@@ -1,7 +1,3 @@
----
-description: RiftLend - your stress-free lending and borrowing experience
----
-
 # Users Shared Benefits
 
 Designed to empower users, including Lenders, Borrowers, Repayers, and Withdrawers, the platform offers several key benefits:
@@ -10,7 +6,7 @@ Designed to empower users, including Lenders, Borrowers, Repayers, and Withdrawe
 
 **Cross-Chain Flexibility:** Users can perform actions like lending, borrowing, repaying, or withdrawing on any chain without managing complex cross-chain interactions.
 
-**Gas Efficiency and Speed:** The protocol utilizes Optimism’s InterOps and CrossL2Inbox for fast, low-cost transactions by validating logs instead of relying on traditional cross-chain messaging.
+**Gas Efficiency and Speed:** The protocol utilizes Optimism’s Interops and CrossL2Inbox for fast, low-cost transactions by validating logs instead of relying on traditional cross-chain messaging.
 
 **SuperChainAssets Integration:** Wrapper tokens, such as superUSDC, enable seamless asset management across chains without the need to constantly move underlying assets.
 

@@ -1,10 +1,6 @@
----
-description: RiftLend - your stress-free lending and borrowing experience
----
-
 # Multichain Flashloans
 
-Flashloans in RiftLend enable users to borrow assets without collateral accessible across all supported Superchains, provided the borrowed amount is repaid within the same transaction.&#x20;
+Flash loans allow you to borrow any available amount of assets from the lending pool without providing any collateral. In our multichain implementation, flash loans are coordinated across chains but executed and repaid atomically within each individual chain.&#x20;
 
 This powerful tool is ideal for advanced DeFi users seeking opportunities like arbitrage, refinancing, or liquidation strategies, all within a single transaction, while maintaining the protocol’s security and integrity.
 
@@ -34,3 +30,5 @@ This powerful tool is ideal for advanced DeFi users seeking opportunities like a
 3.  **Borrowing Caps**:
 
     Caps are enforced to manage market risk and prevent excessive borrowing that could destabilize liquidity pools.
+
+Read more about Multichain Flashloans on our [GitHub](https://github.com/RiftLend/contracts-v1/blob/tabish/tests/packages/contracts/docs/MultichainFlashloans.md).

@@ -1,7 +1,3 @@
----
-description: Your stress-free lending and borrowing experience
----
-
 # Features
 
 ## Seamless Cross-Chain Lending and Borrowing&#x20;
@@ -12,9 +8,9 @@ Users can lend, borrow, repay, and withdraw assets across the Superchain without
 
 Eliminates liquidity fragmentation by enabling interoperability across chains, creating a single, cohesive lending market.
 
-## Dynamic Interest Rate Management&#x20;
+## Unified Interest Rate&#x20;
 
-Reduces the impact of interest rate spikes in smaller markets by dynamically reallocating liquidity across chains.
+It gives the same interest rates and unifies the fragmented liquidity across the Superchain.
 
 ## Interoperability Through the Optimism Superchain&#x20;
 
@@ -22,7 +18,7 @@ Ensures efficient and secure cross-chain communication without relying on extern
 
 ## Built on Aave V2 Architecture&#x20;
 
-Leverages the proven Aave V2 architecture while introducing innovations tailored to the superchain paradigm, removing the need for isolated protocol instances across different chains.
+Leverages the proven Aave V2 architecture while introducing innovations tailored to the Superchain paradigm, removing the need for isolated protocol instances across different chains.
 
 ## Cost-Effective Transactions&#x20;
 

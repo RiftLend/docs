@@ -1,7 +1,3 @@
----
-description: RiftLend - your stress-free lending and borrowing experience
----
-
 # Withdraw
 
 * Users can withdraw their deposited assets, including earned interest, on any supported chain.

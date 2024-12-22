@@ -1,8 +1,4 @@
----
-description: RiftLend - your stress-free lending and borrowing experience
----
-
-# How you benefit
+# How you benefit?
 
 With RiftLend, we aim to simplify the lending experience in a multichain world, thanks to Interops on the Optimism Superchain.&#x20;
 
@@ -45,7 +41,7 @@ Users no longer need to worry about chain-specific limitations. Deposit on one c
 
 ### **For Developers:**
 
-#### 1. [Multichain Flash Loans](https://github.com/RiftLend/monorepo-v1/blob/tabish/tests/packages/contracts/docs/MultichainFlashloans.md)
+#### 1. [Multichain Flashloans](https://github.com/RiftLend/contracts-v1/blob/tabish/tests/packages/contracts/docs/MultichainFlashloans.md)
 
 RiftLend allows users to access liquidity across multiple chains, enabling them to initiate, borrow, and repay in a single interaction—a parallel multi-chain experience.
 
@@ -53,4 +49,4 @@ RiftLend allows users to access liquidity across multiple chains, enabling them 
 
 * Manage cross-chain deployments
 * Handle governance seamlessly
-* Build advanced cross-chain tools like liquidation and flash loan bots with ease.
+* Build advanced cross-chain tools like liquidation and flashloan bots with ease.

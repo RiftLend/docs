@@ -1,7 +1,3 @@
----
-description: Your stress-free lending and borrowing experience
----
-
 # Borrow
 
 * Borrowers can access liquidity by using collateral deposited on any supported chain.
