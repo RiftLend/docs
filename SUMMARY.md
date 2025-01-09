@@ -3,7 +3,6 @@
 * [What is RiftLend?](README.md)
 * [How you benefit?](how-you-benefit.md)
 * [Features](features/README.md)
-  * [SuperChainAssets](features/superchainassets.md)
   * [Users Shared Benefits](features/users-shared-benefits.md)
   * [Lend](features/lend.md)
   * [Borrow](features/borrow/README.md)
