@@ -16,3 +16,4 @@
   * [Badges](lorekeeper/badges.md)
   * [Referral and the Lore](lorekeeper/referral-and-the-lore.md)
 * [Privacy Policy](privacy-policy.md)
+* [Disclaimer](disclaimer.md)
