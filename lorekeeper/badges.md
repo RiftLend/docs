@@ -4,7 +4,9 @@ Badges aren’t just cosmetic—they’re a symbolic recognition, a status symbo
 
 Your Lorekeeper Page: A personalized dashboard to track ranks and badges at [riftlend.com/lorekeeper](https://riftlend.com/lorekeeper). Connect Discord to and get started
 
-## Collaboration Badges: Earned when RiftLend partners with projects like:
+## Collaboration Badges:&#x20;
+
+When RiftLend partners with projects, to honor the collaboration a badge is created. The Lorekeepers who follow our partners, these badges are rewarded.&#x20;
 
 * [Polymer Labs](https://www.polymerlabs.org/)
 * [Nani](https://nani.ooo/)
