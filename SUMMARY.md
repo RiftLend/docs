@@ -15,5 +15,6 @@
   * [Progression](lorekeeper/progression.md)
   * [Badges](lorekeeper/badges.md)
   * [Referral and the Lore](lorekeeper/referral-and-the-lore.md)
+  * [How to Earn Emblems](lorekeeper/how-to-earn-emblems.md)
 * [Disclaimer](disclaimer.md)
 * [Privacy Policy](privacy-policy.md)
