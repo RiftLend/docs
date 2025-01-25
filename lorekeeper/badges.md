@@ -8,9 +8,9 @@ Your Lorekeeper Page: A personalized dashboard to track ranks and badges at [rif
 
 * [Polymer Labs](https://www.polymerlabs.org/)
 * [Nani](https://nani.ooo/)
-* [Mode Network](https://www.mode.network/)
+* [Bungee](https://www.bungee.exchange/)
+* [LayerZero](https://layerzero.network/)
 * [Moonpay](https://www.moonpay.com/)
-* [Socket](https://www.socket.tech/)
 
 ## Cult Badges:
 
