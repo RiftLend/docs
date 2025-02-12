@@ -1,4 +1,4 @@
-# How to Earn Emblems
+# How to Earn Badges
 
 ## 1. Lorekeeper B.0.0
 
@@ -13,18 +13,18 @@
 
 * Be a Lorekeeper.
 * Be followed by [@RiftLend](https://x.com/RiftLend) on X.
-* Follow [@tabishjshaikh](https://x.com/tabishjshaikh) on X.
+* Follow  [@supercontracts](https://x.com/supercontracts) on X.
 * Final approval by the RiftLend team.
 
 ## 4. Rifters @ Nani
 
 1. Be a Lorekeeper.
-2. Follow [@z0r0zzz](https://x.com/z0r0zzz), [@nani\_\_ooo](https://x.com/nani__ooo), and [@nerderlyne](https://x.com/nerderlyne) on X.
+2. Follow [@nani\_\_ooo](https://x.com/nani__ooo) on X.
 
 ## 5. Rifters @ Polymer
 
 1. Be a Lorekeeper.
-2. Follow [@0xbodu](https://x.com/0xbodu), [@tommyoc0](https://x.com/tommyoc0), [@dpbmaverick98](https://x.com/dpbmaverick98), [@Polymer\_Labs](https://x.com/Polymer_Labs), and [@FabricWeaver](https://x.com/FabricWeaver) on X.
+2. Follow [@Polymer\_Labs](https://x.com/Polymer_Labs) on X.
 
 ## 6. Rifters @ Bungee
 
